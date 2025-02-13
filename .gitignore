@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+Cargo.lock
+bin/
+
+# after build, copy /pkg to /www 
+pkg/
+
+wasm-pack.log
